@@ -1,10 +1,10 @@
 # Instalasi-Apache2-Pada-Ubuntu-Server-dan-Wordpress-Nginx-Tableau
 
 ## Daftar Isi
-- Instalasi Apache2 pada Ubuntu Server
-- Instalasi Wordpress
-- Instalasi Nginx
-- Instalasi Tableau
+- [Instalasi Apache2 pada Ubuntu Server](#Instalasi-Apache2-pada-Ubuntu-Server)
+- [Instalasi Wordpress](#Instalasi-Wordpress)
+- [Instalasi Nginx](#Instalasi-Nginx)
+- [Instalasi Tableau](#Instalasi-Tableau)
   
 ## Langkah-langkah mendownload dan menampilkan Apache2
 Untuk melakukan instalasi Apache2 pastikan Ubuntu Server telah terinstall pada perangkat yang kita gunakan. Lalu kita dapat melakukan login sebagai user root.
