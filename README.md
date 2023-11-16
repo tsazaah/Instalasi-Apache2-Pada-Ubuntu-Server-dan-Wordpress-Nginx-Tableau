@@ -126,6 +126,7 @@ melakukan visualisasi data klik tulisan sheet pada bagian kiri bawah, kemudian k
    ![image](https://github.com/tsazaah/Instalasi-Apache2-Pada-Ubuntu-Server-dan-Wordpress-Nginx-Tableau/assets/150001965/41e23a28-2714-48f3-8895-adcc2ec71600)
 
 10. Dari dataset tersebut dapat divisualisaikan mahasiswa yang lulus cepat, dengan yang tidak lulus cepat. Kemudian kita juga dapat melihat IPK, jumlah organisasi yang diikuti, serta berapa kali mahasiswa tersebut mengikuti forum komunikasi.
+    
   ![image](https://github.com/tsazaah/Instalasi-Apache2-Pada-Ubuntu-Server-dan-Wordpress-Nginx-Tableau/assets/150001965/52a7e3dc-48d7-49d3-a668-99d572a50c75)
 
 
